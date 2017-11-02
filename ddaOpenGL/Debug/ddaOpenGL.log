@@ -1,0 +1,8 @@
+﻿  dda.cpp
+c:\users\afi\downloads\garis_lingkaran_opengl_c++_vs2015\garis_lingkaran_opengl_c++_vs2015\ddaopengl\ddaopengl\dda.cpp(71): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\afi\downloads\garis_lingkaran_opengl_c++_vs2015\garis_lingkaran_opengl_c++_vs2015\ddaopengl\ddaopengl\dda.cpp(72): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\afi\downloads\garis_lingkaran_opengl_c++_vs2015\garis_lingkaran_opengl_c++_vs2015\ddaopengl\ddaopengl\dda.cpp(75): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\afi\downloads\garis_lingkaran_opengl_c++_vs2015\garis_lingkaran_opengl_c++_vs2015\ddaopengl\ddaopengl\dda.cpp(76): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\afi\downloads\garis_lingkaran_opengl_c++_vs2015\garis_lingkaran_opengl_c++_vs2015\ddaopengl\ddaopengl\dda.cpp(90): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\afi\downloads\garis_lingkaran_opengl_c++_vs2015\garis_lingkaran_opengl_c++_vs2015\ddaopengl\ddaopengl\dda.cpp(96): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+  ddaOpenGL.vcxproj -> C:\Users\afi\Downloads\Garis_Lingkaran_OpenGL_C++_VS2015\Garis_Lingkaran_OpenGL_C++_VS2015\ddaOpenGL\Debug\ddaOpenGL.exe
